@@ -1,5 +1,5 @@
 {
-    "name": "UnityEssentials.BlackoutReflectionProbe.Editor",
+    "name": "UnityEssentials.BlackoutReflectionProbe",
     "rootNamespace": "UnityEssentials",
     "references": [],
     "includePlatforms": [],
